@@ -25,15 +25,15 @@
       "id": "98443197"
     },
     {
-      "id": "521e",
-      "cityName": "Ulashanivka",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2024-03-05T13:54:53.437Z",
-      "notes": "test",
+      "id": "5833",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-05T17:49:07.793Z",
+      "notes": "",
       "position": {
-        "lat": "50.233151832472245",
-        "lng": "26.9384765625"
+        "lat": "48.84302835299519",
+        "lng": "2.3620605468750004"
       }
     }
   ]
